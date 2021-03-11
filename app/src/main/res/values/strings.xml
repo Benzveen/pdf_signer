@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">PDF Digital Signature</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">PDF Digital Signature</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="menu_home">My Documents</string>
+    <string name="menu_signature">Signatures</string>
+    <string name="menu_slideshow">Slideshow</string>
+    <string name="menu_settings">Settings</string>
+    <string name="menu_share">Share</string>
+    <string name="menu_send">Send</string>
+
+    <string name="signature_title">Place Signature</string>
+    <string name="action_save">Done</string>
+    <string name="clear">Clear</string>
+</resources>

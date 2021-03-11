@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/freehanditem"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="horizontal">
+    <com.benzveen.pdfdigitalsignature.Signature.SignatureView
+        android:id="@+id/signatureview"
+        android:layout_margin="5dp"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content">
+
+    </com.benzveen.pdfdigitalsignature.Signature.SignatureView>
+<androidx.appcompat.widget.AppCompatImageButton
+    android:layout_width="wrap_content"
+    android:layout_height="match_parent"
+    android:layout_margin="5dp"
+    android:layout_gravity="end|center_vertical"
+    android:tint="@color/delete"
+    android:background="@android:color/transparent"
+    android:id="@+id/deleteSignature"
+    android:src="@drawable/ic_delete_black_24dp"/>
+</FrameLayout>

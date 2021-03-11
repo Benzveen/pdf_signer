@@ -1,0 +1,43 @@
+<resources>
+    <!-- Default screen margins, per the Android Design guidelines. -->
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    <dimen name="nav_header_vertical_spacing">8dp</dimen>
+    <dimen name="nav_header_height">176dp</dimen>
+    <dimen name="fab_margin">16dp</dimen>
+    <dimen name="stroke_size">3dp</dimen>
+
+    <dimen name="signature_view_header">40.0dip</dimen>
+    <dimen name="signature_header_text_size">14.0sp</dimen>
+    <dimen name="signature_button_height">40.0dip</dimen>
+    <dimen name="signature_button_padding_left">20.0dip</dimen>
+    <dimen name="signature_button_padding_right">20.0dip</dimen>
+    <dimen name="sign_here_left_margin">20.0dip</dimen>
+    <dimen name="sign_here_bottom_margin">74.0dip</dimen>
+    <dimen name="signature_base_line_bottom_margin">80.0dip</dimen>
+    <dimen name="signature_panel_horizontal_margin">0.0dip</dimen>
+    <dimen name="sign_left_offset">24.0dip</dimen>
+    <dimen name="sign_right_offset">16.0dip</dimen>
+    <dimen name="sign_menu_width">210.0dip</dimen>
+    <dimen name="sign_top_offset">18.0dip</dimen>
+    <dimen name="fill_and_sign_button_height">52.0dip</dimen>
+    <dimen name="sign_button_height">55.0dip</dimen>
+    <dimen name="ctx_menu_item_width">45.0dip</dimen>
+    <dimen name="ctx_menu_height">45.0dip</dimen>
+    <dimen name="menu_offset_y">50.0dip</dimen>
+    <dimen name="menu_offset_x">10.0dip</dimen>
+    <dimen name="sign_field_step_size">4.0dip</dimen>
+    <dimen name="sign_field_min_height">24.0dip</dimen>
+    <dimen name="sign_field_max_height">170.0dip</dimen>
+    <dimen name="sign_field_default_height">60.0dip</dimen>
+    <dimen name="element_min_width">25.0dip</dimen>
+    <dimen name="element_horizontal_padding">5.0dip</dimen>
+    <dimen name="element_vertical_padding">0.0dip</dimen>
+    <dimen name="pagenumber_overlay_margin_top">10.0dip</dimen>
+    <dimen name="pagenumber_left_margin">15.0dip</dimen>
+    <dimen name="pagenumber_top_bottom_margin">6.0dip</dimen>
+    <dimen name="pagenumber_right_margin">15.0dip</dimen>
+    <dimen name="textViewTextSize">14.0sp</dimen>
+
+    <dimen name="spacing_large">15dp</dimen>
+</resources>
